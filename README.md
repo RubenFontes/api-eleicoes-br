@@ -1,21 +1,25 @@
-# About
+# Sobre
 
-Follow the vote count of the presidential election in Brazil
+Acompanhe a contagem de votos da eleição presidencial no Brasil
 
-# Install
-
-```bash
-git clone https://github.com/RubenFontes/brazil-apuracao-2022.git
-```
+## Instalação
 
 ```bash
-npm install
+$ git clone https://github.com/RubenFontes/brazil-apuracao-2022.git
 ```
 
-initialize
+```bash
+$ cd brazil-apuracao-2022
+```
+
+```bash
+$ npm install
+```
+
+## Inicializar
 
 ```
-npm start
+$ node app.js
 ```
 
 ## License
