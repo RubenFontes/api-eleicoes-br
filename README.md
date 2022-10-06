@@ -5,11 +5,11 @@ Acompanhe a contagem de votos da eleição presidencial no Brasil
 ## Instalação
 
 ```bash
-$ git clone https://github.com/RubenFontes/brazil-apuracao-2022.git
+$ git clone https://github.com/RubenFontes/api-eleicoes-br.git
 ```
 
 ```bash
-$ cd brazil-apuracao-2022
+$ cd api-eleicoes-br
 ```
 
 ```bash
